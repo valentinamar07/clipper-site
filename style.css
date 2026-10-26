@@ -9,3 +9,5 @@ p.maj, nav { color: var(--doux); }
 nav a { margin-right: 16px; }
 a { color: var(--accent); }
 hr { border: none; border-top: 1px solid var(--doux); opacity: .3; margin: 40px 0; }
+section.youtube { border: 1px solid rgba(127,127,127,.3); border-radius: 12px; padding: 4px 20px; margin: 32px 0; }
+p.marque { display: flex; align-items: center; gap: 10px; font-size: 20px; }
